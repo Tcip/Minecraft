@@ -1,3 +1,8 @@
-<pre>
+## <a href="../prefilled-chest%2FFully%20Enchanted%20Netherite%C2%A0Armor.md" target="_blank"><b>Prefilled Chest with Netherite Armor</b></a>
+
+<a href="../Img/Prefilled_Chest_w_Netherite_Armor.gif"><img src="../Img/Prefilled_Chest_w_Netherite_Armor.gif" style="float:right" height="300"/></a>
+
+
+```
 /give @p chest{display:{Name:'[{"text":"Chest","italic":false,"color":"aqua"}]',Lore:['[{"text":"FULLY ENCHANTED:","italic":false}]','[{"text":"","italic":false}]','[{"text":"- Netherite Armor","italic":false}]']},BlockEntityTag:{Items:[{Slot:0,id:netherite_helmet,Count:1,tag:{Enchantments:[{id:fire_protection,lvl:4},{id:respiration,lvl:3},{id:aqua_affinity,lvl:1},{id:thorns,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1}]}},{Slot:1,id:netherite_chestplate,Count:1,tag:{Enchantments:[{id:projectile_protection,lvl:4},{id:thorns,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1}]}},{Slot:2,id:netherite_leggings,Count:1,tag:{Enchantments:[{id:blast_protection,lvl:4},{id:thorns,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1}]}},{Slot:3,id:netherite_boots,Count:1,tag:{display:{Name:'[{"text":"Netherite Boots (Depth Strider)","italic":false,"color":"aqua"}]'},Enchantments:[{id:feather_falling,lvl:4},{id:projectile_protection,lvl:4},{id:depth_strider,lvl:3},{id:unbreaking,lvl:3},{id:mending,lvl:1},{id:soul_speed,lvl:3}]}},{Slot:4,id:netherite_boots,Count:1,tag:{display:{Name:'[{"text":"Netherite Boots (Frost Walker)","italic":false,"color":"aqua"}]'},Enchantments:[{id:feather_falling,lvl:4},{id:projectile_protection,lvl:4},{id:frost_walker,lvl:2},{id:unbreaking,lvl:3},{id:mending,lvl:1},{id:soul_speed,lvl:3}]}}]}} 1
-</pre>
+```
